@@ -9,6 +9,7 @@ and generates yaml code for sensor cards that look like this:
 ![alt text](http://www.brian-fitzgerald.net/ha/images/sensors.jpg)
 
 You are welcome to add other features. <br/>
-You are welcome to buy me a coffee. 
-[![alt text](http://www.brian-fitzgerald.net/ha/images/coffee.jpg)](https://www.buymeacoffee.com/brianfit)
+You are welcome to buy me a coffee. <br />
+
+[![alt text](http://www.brian-fitzgerald.net/ha/images/coffee.jpg?)](https://www.buymeacoffee.com/brianfit)
  
