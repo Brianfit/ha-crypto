@@ -7,7 +7,9 @@
     <meta name="author" content="Brian Fitzgerald">
     <!-- Bootstrap core CSS -->
     <link href="/bootstrap4/css/bootstrap.min.css" rel="stylesheet">
-<!--     <script src="coingeckolist.js"></script> -->
+<!--     <script src="coingeckolist.js"></script> 
+I experimented with this as a  way to load a the many coins at Coingecko into an options list. It was fastest to hard code into html, but I left this JSON output here in case it's useful to you. It's not used in this code. 
+-->
     <!-- Custom styles for this template -->
     <style>
       body {
@@ -28,7 +30,7 @@
 
 </head>
 <body>
-    <!-- Navigation -->
+    <!-- Navigation This Should be a Duplicate of the Calling Page-->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-custom">
       <div class="container">
         <a class="navbar-brand" href="https://github.com/Brianfit/ha-crypto">Open Source. Coffee Fueled.</a>
@@ -54,7 +56,7 @@
         </div>
       </div>
     </nav>
-
+    <!-- Navigation End -->
     <!-- Page Content -->
     <div class="container">
       <div class="row">
@@ -64,6 +66,7 @@
 <br/>
 <br/>
 <div style='width:75%'>
+<!-- Display how much the user bought at what total price as a check -->
 <p style="font-family: 'Bubbler One', sans-serif;">You bought <?php echo $_POST["howmany"]; ?> <?php echo $_POST["coinname"]; ?> at a price of <?php $price = $_POST["whatprice"]; if (strpos('.',$price) == 0){ $price = '0'+$price;} echo $price ?> <?php echo $_POST["whichcurrency"]; ?> per coin. So you spent <?php $buy = ($price * $amount); echo $buy+' '+$fiat; ?><br/>
 
 <bold>Here is the code for your HomeAssistant configuration.yaml.</bold> If you already have a sensor: block, don't copy the sensor: line here. Just nest the two platform statements into your existing sensor: block.
@@ -90,7 +93,7 @@ sensor:
         value_template: "{{((states.sensor.<?php $hyphenated = $_POST["coinname"]; $trans = array("-" => ""); echo strtr($hyphenated, $trans); ?>_rate.state| float * <?php echo $_POST["howmany"]; ?>) - (<?php echo $_POST["howmany"]; ?> * <?php $price = $_POST["whatprice"]; if (strpos('.',$price) == 0) {$price = '0'+$price; } echo $price ?>) )  | round(2) }}"    
 </pre>
 <hr/><br/>
-<!-- What it's worth on the left, what you paid on the right.  -->
+<!-- What it's worth on the left, minus what you paid on the right.  -->
 <div class="text-center">
 <a href="https://www.buymeacoffee.com/brianfit"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=☕&slug=brianfit&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 <div class="row">
