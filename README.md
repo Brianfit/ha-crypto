@@ -1,9 +1,10 @@
 # ha-crypto
 ## Sensor generator for Crypto Profit/Loss cards
 
-A simple html and php webform that generates the YAML code fr creating Home Assistant Profit(Loss) sensors for crypto purchasers. 
+A simple html and php webform that generates the YAML code fr creating Home Assistant Profit(Loss) sensors for crypto purchasers. This repo is provided for anyone who wants to extend the features of these sensors or use the generic form -> php code to generate other kinds of yaml.
 
-[You can try the working webform here.](http://www.brian-fitzgerald.net/ha)
+If all you want to do is generate the code to create sensors like the above,  
+[you can use the working webform here.](http://www.brian-fitzgerald.net/ha)
 
 and generates yaml code for sensor cards that look like this:
 ![alt text](http://www.brian-fitzgerald.net/ha/images/sensors.jpg)
