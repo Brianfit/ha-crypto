@@ -1,0 +1,142 @@
+[05-Jul-2021 18:09:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/brianfit/public_html/ha/results.php on line 20
+[05-Jul-2021 18:19:53 UTC] PHP Parse error:  syntax error, unexpected '$dashless' (T_VARIABLE) in /home/brianfit/public_html/ha/results.php on line 20
+[06-Jul-2021 16:39:46 UTC] PHP Parse error:  syntax error, unexpected 'strpos' (T_STRING), expecting '(' in /home/brianfit/public_html/ha/results.php on line 6
+[06-Jul-2021 16:50:33 UTC] PHP Parse error:  syntax error, unexpected 'strpos' (T_STRING), expecting '(' in /home/brianfit/public_html/ha/results.php on line 23
+[06-Jul-2021 16:53:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/brianfit/public_html/ha/results.php on line 23
+[07-Jul-2021 07:37:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brianfit/public_html/ha/results.php on line 6
+[07-Jul-2021 07:40:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brianfit/public_html/ha/results.php on line 4
+[07-Jul-2021 07:42:27 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[07-Jul-2021 07:42:27 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 11:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 11:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 16:49:42 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 16:49:42 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 17:03:04 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 17:03:04 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 17:40:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 17:40:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 18:05:38 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[08-Jul-2021 18:05:38 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 11:59:15 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 11:59:15 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:08:05 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:08:05 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:10:12 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:10:12 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:18:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 12:18:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:22:44 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:22:44 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:37:16 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:37:16 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:44:13 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 16:44:13 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 6
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 23
+[09-Jul-2021 17:18:30 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 23
+[09-Jul-2021 17:21:39 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 15
+[09-Jul-2021 17:21:39 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 15
+[09-Jul-2021 17:23:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 17:23:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 10
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 27
+[09-Jul-2021 18:05:14 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 27
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 82
+[09-Jul-2021 18:32:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 82
+[09-Jul-2021 18:32:54 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:32:54 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 82
+[09-Jul-2021 18:35:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 82
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  strpos(): Empty needle in /home/brianfit/public_html/ha/results.php on line 85
+[09-Jul-2021 18:36:17 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 85
+[09-Jul-2021 18:42:25 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:42:25 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:47:41 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[09-Jul-2021 18:47:41 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[10-Jul-2021 08:29:00 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[10-Jul-2021 08:29:00 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:20:46 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:20:46 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:20:56 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:20:56 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:21:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:21:08 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:25:58 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:25:58 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:26:35 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:26:35 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:33:31 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:33:31 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:35:44 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:35:44 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:35:54 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:35:54 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:37:56 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:37:56 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:38:24 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:38:24 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:39:00 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:39:00 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:39:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:39:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:44:02 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:44:02 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:45:05 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:45:05 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:45:32 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:45:32 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:52:53 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:52:53 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:55:48 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:55:48 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:59:04 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:59:04 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 65
+[11-Jul-2021 10:59:23 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 10:59:23 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:00:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:00:21 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 87
+[11-Jul-2021 11:20:29 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:20:29 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:20:29 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:20:29 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 89
+[11-Jul-2021 11:22:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:22:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:22:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:22:06 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 89
+[11-Jul-2021 11:42:27 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:42:27 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:43:41 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:43:41 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:44:40 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
+[11-Jul-2021 11:44:40 UTC] PHP Warning:  A non-numeric value encountered in /home/brianfit/public_html/ha/results.php on line 67
